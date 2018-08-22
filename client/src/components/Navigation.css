@@ -1,0 +1,27 @@
+.navbar
+{
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+
+.navlinks
+{
+    width: 28%;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+}
+
+.links
+{
+    margin: 0 auto;
+    margin-left: 7%;
+    margin-right: 7%;
+    color: #333367;
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 5px;
+    border-bottom: solid 2px #333367;
+    text-decoration: none;
+}
